@@ -16,4 +16,4 @@ jobs:
     uses: AndrzejProchyra/BookBuilderDashboard/.github/workflows/main.yml@make-texlive-release-a-parameter
     with:
       bookname: BuildingUIWithSpec
-      texlive_release: '2026'
+      texlive_release: '2025'
