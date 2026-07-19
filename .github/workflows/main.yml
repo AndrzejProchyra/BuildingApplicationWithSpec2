@@ -13,7 +13,7 @@ on:
 
 jobs:
   build:
-    uses: AndrzejProchyra/BookBuilderDashboard/.github/workflows/main.yml@make-texlive-release-a-parameter
+    uses: SquareBracketAssociates/BookBuilderDashboard/.github/workflows/main.yml@master
     with:
       bookname: BuildingUIWithSpec
       texlive_release: '2025'
